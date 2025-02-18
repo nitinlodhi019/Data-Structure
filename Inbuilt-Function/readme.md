@@ -17,26 +17,40 @@ Returns a string representation of an object.
 
 # 2 . **Data Type Conversion Functions**
 
-int()	
+**int():**	
 Converts a value to an integer.
 
-float()
+**float():**
 Converts a value to a floating-point number.
 
-str()
+**str():**
 Converts a value to a string.
 
-bool()
+**bool():**
 Converts a value to True or False.
 
-complex()
+**complex():**
 Converts a number to a complex number.
 
-bin()	
+**bin():**
 Converts an integer to a binary string.
 
-hex()
+**hex():**
 Converts an integer to a hexadecimal string.
 
-oct()	
+**oct():**	
 Converts an integer to an octal string.
+
+# 3. **Mathematical Functions**
+
+**abs():**	
+Returns the absolute value of a number.
+
+**round():**
+Rounds a number to a specified number of decimal places.
+
+**pow():**
+Raises a number to a power (pow(x, y) = x^y).
+
+**divmod():**
+Returns quotient and remainder as a tuple (quotient, remainder).
